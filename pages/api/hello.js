@@ -8,7 +8,7 @@ datadogRum.init({
     clientToken: 'pub9c5479042679bcb961fe0064ffd0cbf3',
     site: 'datadoghq.com',
     service:'datadog-rum-test',
-    env:'staging',
+    env:'production',
     // Specify a version number to identify the deployed version of your application in Datadog 
     // version: '1.0.0',
     sampleRate: 100,
